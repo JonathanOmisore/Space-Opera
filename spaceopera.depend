@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1464480436 source:/home/jonathan/Documents/spaceopera/main.cpp
+	<SFML/Graphics.hpp>
+	"game.hpp"
+	"planet.hpp"
+
+1464470667 /home/jonathan/Documents/spaceopera/window.hpp
+	<SFML/Graphics.hpp>
+
+1464463258 /home/jonathan/Documents/spaceopera/textures.hpp
+	<SFML/Graphics.hpp>
+
+1464470683 source:/home/jonathan/Documents/spaceopera/textures.cpp
+	"textures.hpp"
+
+1464463928 source:/home/jonathan/Documents/spaceopera/window.cpp
+	"window.hpp"
+
+1464468538 source:/home/jonathan/Documents/spaceopera/holdup.cpp
+	<SFML/Graphics.hpp>
+
+1464815294 source:/home/jonathan/Documents/spaceopera/game.cpp
+	"game.hpp"
+	"planet.hpp"
+	"spaceship.hpp"
+
+1464719659 /home/jonathan/Documents/spaceopera/game.hpp
+	<SFML/Graphics.hpp>
+
+1464815784 source:/home/jonathan/Documents/spaceopera/planet.cpp
+	"planet.hpp"
+	"spaceship.hpp"
+	"spaceship.hpp"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1464810430 /home/jonathan/Documents/spaceopera/planet.hpp
+	<SFML/Graphics.hpp>
+
+1464812275 source:/home/jonathan/Documents/spaceopera/spaceship.cpp
+	"spaceship.hpp"
+	<iostream>
+
+1464578857 /home/jonathan/Documents/spaceopera/spaceship.hpp
+	<SFML/Graphics.hpp>
+
